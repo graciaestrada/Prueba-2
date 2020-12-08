@@ -14,11 +14,21 @@ header{
 }
 
 #banners {
-	
+	padding: 30px;
+}
+
+#product {
+	padding: 30px;
+	 
+}
+
+#clients-footer {
+	padding: 35px; 
 }
 
 footer {
 	background-color: #323232;
-	padding: 20px;
+	padding: 25px;
 	text-align: center;
+	color: white;
 }
